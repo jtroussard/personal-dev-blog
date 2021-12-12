@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Capital One Invest in Yourself Day: 12/10/21"
+date:   2021-12-11 19:39:48 -0500
+categories: c1
+---
+One of my favorite things about working at Capital One are the invest in
+yourself days. Colleagues have been using this day for a variety of incredible
+activities. I thought it would be a good exercise and perhaps even helpful to
+others if I posted about my investment day here.
+
+Today we're going to talk about: AWS
+
+Preparing for the Associate AWS Certified Solutions Architect Exam:
+
+I am preparing for an AWS exam coming up soon, and have been reviewing
+documentation on the aws site. There is also a newer section, [AWS skill
+builder](https://explore.skillbuilder.aws/), with all kinds of tutorials and
+interactive videos. I spent a few hours following one of the test prep videos,
+"Exam Prep: AWS Certified Solutions Architect - Associate", and whenever I found
+my self completely out of sorts, missing questions, or realizing there was a
+problem with my understanding of a service I would step away from the video and
+use other resources to bulk up on the topic: youtube, aws documentation,
+stack overflow.
+
+I would encourage anyone preparing for any of the AWS exams to take a look at
+the resources offered directly from Amazon. Their documentation is robust,
+clean, and easy to navigate. I find that even though there is an overwhelming
+amount of information, it's well organized and there are great skimming sections
+such as the topic main page and the faq's commonly included in many of the
+topics.
+
+A little trick I was taught was to simply add the topic you're curious about
+behind this url, `https://aws.amazon.com/<your topic here>`, and there is a good
+chance you'll get the documentation page for that topic. Otherwise their search
+isn't too bad, and ultimately, the all powerful Google search will do the trick.
+
